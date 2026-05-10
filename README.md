@@ -23,7 +23,7 @@ The skill bans the defaults that mark a page as AI-generated: gradient cards on 
 - Optional Google Fonts via CDN.
 - Zero JavaScript, zero build step.
 
-## Install (Claude Code)
+## Install
 
 ```bash
 npx skills add sarthakxv/html-artifact-builder
@@ -34,8 +34,6 @@ Or clone manually:
 ```bash
 git clone https://github.com/sarthakxv/html-artifact-builder ~/.claude/skills/html-artifact-builder
 ```
-
-For other harnesses (opencode, Codex, etc.), check their docs for the skill install path.
 
 ## Examples
 
