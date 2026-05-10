@@ -1,6 +1,6 @@
 ---
 name: html-artifact-builder
-description: Creates pure HTML + CSS artifacts as a single self-contained file with no build step, no JavaScript, and no framework dependencies. Use whenever the user asks for an artifact, UI mockup, document, dashboard, form, card, landing page, table, tool, or any visual/interactive interface that should be shareable as a single HTML file. Triggers for: "make a page", "create an artifact", "build a UI", "design a dashboard", "I need something visual", "can you make an HTML...", "create a tool that shows...", "build me a...", or any request that calls for rendering information visually in a browser. Prefer this over web-artifacts-builder for anything that doesn't explicitly require React or complex cross-component state management.
+description: 'Creates pure HTML + CSS artifacts as a single self-contained file with no build step, no JavaScript, and no framework dependencies. Use whenever the user asks for an artifact, UI mockup, document, dashboard, form, card, landing page, table, tool, or any visual/interactive interface that should be shareable as a single HTML file. Triggers for: "make a page", "create an artifact", "build a UI", "design a dashboard", "I need something visual", "can you make an HTML...", "create a tool that shows...", "build me a...", or any request that calls for rendering information visually in a browser. Prefer this over web-artifacts-builder for anything that doesn''t explicitly require React or complex cross-component state management.'
 ---
 
 # HTML Artifact Builder
